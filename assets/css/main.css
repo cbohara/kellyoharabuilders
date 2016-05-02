@@ -21,6 +21,12 @@
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
+	
+	video {
+		width:100%; 
+   		max-width:480px; 
+   		height:auto;
+	}
 
 	body {
 		line-height: 1;
