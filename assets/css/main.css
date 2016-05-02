@@ -3593,6 +3593,10 @@
 			#cta .inner header p {
 				color: inherit;
 			}
+			
+			#cta .inner header a {
+				padding-bottom: 32px;
+			}
 
 		#cta .inner .actions {
 			-moz-order: 2;
