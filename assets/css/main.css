@@ -53,6 +53,11 @@
 	body {
 		-webkit-text-size-adjust: none;
 	}
+	
+	#license p {
+    		letter-spacing: 0.225em;
+    		text-transform: uppercase;
+	}
 
 /* Box Model */
 
